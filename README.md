@@ -1,4 +1,4 @@
-# 🧬 Breeding Simplified!
+# 🧬 Breeding Simplified! (under construction)
 
 Welcome to Breeding Simplified - where we break down complex genetic evaluation concepts into bite-sized, understandable pieces! 
 
