@@ -22,6 +22,11 @@ Don't worry - you don't need to be a statistician or programmer to get started! 
 - Practical examples
 - Ready-to-use code
 
+To navigate the repository:
+1. Go to the relevant folder for the topic you are interested in.
+2. Each folder contains a README.md file with detailed instructions.
+3. Follow the step-by-step guides and use the provided code.
+
 ## 📚 Topics Covered
 
 ### Basic Concepts
@@ -47,6 +52,8 @@ Don't worry - you don't need to be a statistician or programmer to get started! 
 ## 🤝 Contributing
 
 Found something unclear? Have a better example? Contributions are welcome! This is a learning resource that grows better with community input.
+
+Please note the new repository structure. Each topic is organized into its own folder with a README.md file and relevant code.
 
 ## 🌱 Where to Start?
 
